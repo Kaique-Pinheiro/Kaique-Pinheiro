@@ -15,8 +15,8 @@ Desenvolvo pipelines quantitativos aplicando modelagem estatística e Python a p
 
 ## 🏅 Certificações
 
-- JPMorgan Chase & Co. — Advanced Software Engineering Virtual Experience Program (Forage)
-- JPMorgan Chase & Co. — Quantitative Research Virtual Experience Program (Forage)
+- JPMorgan Chase & Co. — Advanced Software Engineering Virtual Experience Program
+- JPMorgan Chase & Co. — Quantitative Research Virtual Experience Program 
 
 ## 🌐 Conecte-se
 

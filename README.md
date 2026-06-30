@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kaique Pinheiro
 
-<!--
-**Kaique-Pinheiro/Kaique-Pinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação e IA na FEI (3º semestre, conclusão prevista dez/2028), construindo carreira no setor financeiro com foco em **Análise de Risco de Mercado** e **Análise de Dados**.
 
-Here are some ideas to get you started:
+Desenvolvo pipelines quantitativos aplicando modelagem estatística e Python a problemas reais de mercado financeiro — de gestão de risco de carteira a precificação de derivativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack
+
+`Python` · `SQL` · `Pandas` · `NumPy` · `PostgreSQL` · `Java` · `Spring Boot`
+
+## 📌 Projetos em destaque
+
+- **[Portfolio Risk Analysis (B3)](https://github.com/Kaique-Pinheiro/portfolio-risk-analysis)** — Pipeline completo de risco de carteira: VaR (3 metodologias), CVaR/FRTB, Fronteira Eficiente de Markowitz, Backtesting de Kupiec.
+- **[Itapemirim DB](https://github.com/Kaique-Pinheiro/itapemirim-db)** — Modelagem de banco relacional para operação de transporte rodoviário, do diagrama ER às queries analíticas.
+
+## 🏅 Certificações
+
+- JPMorgan Chase & Co. — Advanced Software Engineering Virtual Experience Program (Forage)
+- JPMorgan Chase & Co. — Quantitative Research Virtual Experience Program (Forage)
+
+## 🌐 Conecte-se
+
+[LinkedIn](https://linkedin.com/in/kaique-pinheiiro) · São Paulo, Brasil

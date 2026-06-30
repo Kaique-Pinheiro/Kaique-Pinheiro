@@ -1,8 +1,8 @@
 # Kaique Pinheiro
 
-Estudante de Ciência da Computação e IA na FEI (3º semestre, conclusão prevista dez/2028), construindo carreira no setor financeiro com foco em **Análise de Risco de Mercado** e **Análise de Dados**.
+Estudante de Ciência da Computação na FEI (conclusão prevista dez/2028), construindo carreira no setor financeiro com foco em **Análise de Risco de Mercado** e **Análise de Dados**.
 
-Desenvolvo pipelines quantitativos aplicando modelagem estatística e Python a problemas reais de mercado financeiro — de gestão de risco de carteira a precificação de derivativos.
+Desenvolvo pipelines quantitativos aplicando modelagem estatística e Python em problemas reais de mercado financeiro, gestão de risco de carteira e precificação de derivativos.
 
 ## 🔧 Stack
 

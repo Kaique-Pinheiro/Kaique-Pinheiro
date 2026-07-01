@@ -4,20 +4,20 @@ Estudante de Ciência da Computação na FEI (conclusão prevista dez/2028), con
 
 Desenvolvo pipelines quantitativos aplicando modelagem estatística e Python em problemas reais de mercado financeiro, gestão de risco de carteira e precificação de derivativos.
 
-## 🔧 Stack
+##  Stack
 
 `Python` · `SQL` · `Pandas` · `NumPy` · `PostgreSQL` · `Java` · `Spring Boot`
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 - **[Portfolio Risk Analysis (B3)](https://github.com/Kaique-Pinheiro/portfolio-risk-analysis)** — Pipeline completo de risco de carteira: VaR (3 metodologias), CVaR/FRTB, Fronteira Eficiente de Markowitz, Backtesting de Kupiec.
 - **[Itapemirim DB](https://github.com/Kaique-Pinheiro/itapemirim-db)** — Modelagem de banco relacional para operação de transporte rodoviário, do diagrama ER às queries analíticas.
 
-## 🏅 Certificações
+##  Certificações
 
 - JPMorgan Chase & Co. — Advanced Software Engineering Virtual Experience Program
 - JPMorgan Chase & Co. — Quantitative Research Virtual Experience Program 
 
-## 🌐 Conecte-se
+##  Conecte-se
 
 [LinkedIn](https://linkedin.com/in/kaique-pinheiiro) · São Paulo, Brasil

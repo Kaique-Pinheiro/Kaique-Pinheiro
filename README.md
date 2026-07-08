@@ -15,8 +15,8 @@ Desenvolvo pipelines quantitativos aplicando modelagem estatística e Python em 
 
 ##  Certificações
 
-- JPMorgan Chase & Co. — Advanced Software Engineering Virtual Experience Program.
-- JPMorgan Chase & Co. — Quantitative Research Virtual Experience Program. 
+- JPMorgan Chase & Co. — Advanced Software Engineering Virtual Experience Program
+- JPMorgan Chase & Co. — Quantitative Research Virtual Experience Program 
 
 ##  Conecte-se
 

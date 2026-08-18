@@ -10,7 +10,7 @@ Construo pipelines quantitativos aplicando modelagem estatística e Python a pro
  
 ## Projetos em destaque
  
-- **[FeelNews — Desafio Quant IA, Itaú Asset (2026)](https://github.com/Kaique-Pinheiro/feelnews)** — Sentimento extraído de notícias por LLM melhora a previsão de volatilidade do IBOV? Baseline GARCH(1,1) estendido para GARCH-X, testado out-of-sample contra o baseline. **Resultado: o sinal não foi estatisticamente significativo** (γ = 0,049, p = 0,203; Diebold-Mariano p = 0,376) — o repositório documenta o desenho do teste, as limitações dos dados e as hipóteses sobre por que a relação não se sustentou.
+- **[FeelNews — Desafio Quant IA, Itaú Asset (2026)](https://github.com/Kaique-Pinheiro/feelnews)** — Sentimento extraído de notícias por LLM melhora a previsão de volatilidade do IBOV? Baseline GARCH(1,1) estendido para GARCH-X, testado out-of-sample contra o baseline. **Resultado: o sinal não foi estatisticamente significativo** (γ = 0,049, p = 0,203; Diebold-Mariano p = 0,376) o repositório documenta o desenho do teste, as limitações dos dados e as hipóteses sobre por que a relação não se sustentou.
 - **[Portfolio Risk Analysis (B3)](https://github.com/Kaique-Pinheiro/portfolio-risk-analysis)** — Pipeline completo de risco de carteira: VaR por três metodologias (paramétrico, histórico, Monte Carlo), CVaR sob FRTB (Basileia IV), Fronteira Eficiente de Markowitz, backtesting de Kupiec e stress testing com cenários históricos (Covid, alta da Selic 2015).
 - **[Itapemirim DB](https://github.com/Kaique-Pinheiro/itapemirim-db)** — Modelagem de banco relacional para operação de transporte rodoviário, do diagrama ER às queries analíticas. 11 tabelas em PostgreSQL, deploy em cloud via Supabase.
 ## Programas e simulações
